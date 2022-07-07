@@ -1,5 +1,6 @@
 # Inventory-Management
 Inventory Management GUI 
+
 Dependencies - Latest long term support (LTS) version of JDK and JavaFX SDK or Module (for NetBeans or IntelliJ IDEA), and Scene Builder.
 
 The Inventory management GUI is a multiple-screen, JavaFX application to manage an inventory system for parts and products. 
